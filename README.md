@@ -1,45 +1,54 @@
-## 👋 Привет! Меня зовут Alex
+<p align="center">
+  <a href="https://github.com/DominikTobureto">
+    <img width="80%" alt="Hello, I'm Alex. I build desktop apps with C++ and Qt." src="./assets/gh-readme-header.svg" />
+  </a>
+</p>
 
-**C++/Qt разработчик** с опытом создания десктопных приложений для Windows и Linux.
+<br />
 
-> **English:** C++/Qt developer focused on cross-platform desktop apps.
+I'm a C++/Qt desktop developer focused on reliable local-first applications for Windows and Linux.
 
----
+**About me**
 
-### 🛠️ Стек технологий
+- Desktop developer working with C++17/20, Qt 5/6 Widgets, PyQt5, and PySide6
 
-| Категория     | Технологии                          |
-|---------------------|---------------------------------------------|
-| **Языки**     | C++17, Python, SQL                          |
-| **Фреймворки** | Qt 5, PyQt5, CMake                          |
-| **Базы**         | SQLite, PostgreSQL                          |
-| **Инструменты** | Git, GDB, Valgrind, PyInstaller             |
-| **ОС**             | Windows, Ubuntu, Astra Linux                |
+- I build practical tools with clean UI, structured data storage, and predictable release workflows
 
----
+- I care about maintainable architecture, readable interfaces, debugging, testing, and packaging
 
-### 📂 Избранные проекты
+- Currently improving modern C++/Qt workflows, CMake builds, Qt 6 migration, and release automation
 
-| Проект       | Описание                                      | Стек                  |
-|---------------------|--------------------------------------------------|----------------------------------|
-| [AccountVault](https://github.com/DominikTobureto/AccountVault) | Локальный менеджер аккаунтов с тёмной темой | Python + PyQt5 + SQLite         |
-| [QtNotepad](https://github.com/DominikTobureto/QtNotepad)     | Многовкладочный редактор с подсветкой C++     | C++17 + Qt5 Widgets + CMake     |
-| [TaskTracker](https://github.com/DominikTobureto/TaskTracker) | Лёгкий CLI-трекер задач с приоритетами | C++17 + CMake                   |
+- Open to freelance and full-time roles as a C++/Qt or Python desktop developer
 
----
+<code><img height="22" alt="cplusplus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="22" alt="qt" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"></code>
+<code><img height="22" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="22" alt="cmake" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg"></code>
+<code><img height="22" alt="sqlite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"></code>
+<code><img height="22" alt="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
+<code><img height="22" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+<code><img height="22" alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
 
-### 🚀 Ищу вакансии
+<br />
+<br />
 
-- **Freelance** и **full-time** позиции C++/Qt или Python Desktop Developer
-- Remote / Hybrid / Офис (Россия)
+| <a href="https://github.com/DominikTobureto"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DominikTobureto&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Alex's GitHub stats" /></a> | <a href="https://github.com/DominikTobureto"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominikTobureto&layout=compact&theme=buefy&hide_border=true" alt="Top languages" /></a> |
+| ------------- | ------------- |
 
----
+#### Tech Focus
 
-### 📫 Контакты
+```text
+C++17/20      Qt 5/6 Widgets      PyQt5 / PySide6
+CMake         SQLite / PostgreSQL GitHub Actions
+CTest         GoogleTest/Catch2   PyInstaller / CPack
+Windows       Ubuntu / Linux      Git / Markdown
+```
 
-- **Email:** rulol7733@gmail.com
-- **GitHub:** [@DominikTobureto](https://github.com/DominikTobureto)
+<br />
 
----
-
-*Обновлено: 21 мая 2026*
+<a href="mailto:rulol7733@gmail.com">
+  <img align="right" alt="Email" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" />
+</a>
+<a href="https://github.com/DominikTobureto">
+  <img align="right" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" />
+</a>
