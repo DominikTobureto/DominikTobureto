@@ -1,54 +1,86 @@
 <p align="center">
-  <a href="https://github.com/DominikTobureto">
-    <img width="80%" alt="Hello, I'm Alex. I build desktop apps with C++ and Qt." src="./assets/gh-readme-header.svg" />
-  </a>
+  <img width="160" alt="Anime mecha-inspired developer avatar" src="./assets/anime-mecha-avatar.jpg" />
 </p>
 
-<br />
+<h1 align="center">Alex · Desktop Systems Builder</h1>
 
-I'm a C++/Qt desktop developer focused on reliable local-first applications for Windows and Linux.
+<p align="center">
+  I build C++/Qt desktop applications with clean UI, structured data, and reliable release workflows.
+</p>
 
-**About me**
+<p align="center">
+  <code>C++</code> · <code>Qt</code> · <code>Python</code> · <code>CMake</code> · <code>SQLite</code> · <code>Linux</code> · <code>Windows</code>
+</p>
 
-- Desktop developer working with C++17/20, Qt 5/6 Widgets, PyQt5, and PySide6
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,qt,python,cmake,sqlite,postgres,git,github,linux,windows" alt="Tech stack icons" />
+</p>
 
-- I build practical tools with clean UI, structured data storage, and predictable release workflows
+---
 
-- I care about maintainable architecture, readable interfaces, debugging, testing, and packaging
+### What I build
 
-- Currently improving modern C++/Qt workflows, CMake builds, Qt 6 migration, and release automation
+Desktop apps that are:
 
-- Open to freelance and full-time roles as a C++/Qt or Python desktop developer
+- local-first;
+- predictable;
+- easy to debug;
+- clean to package;
+- pleasant to use;
+- boring in the best engineering sense.
 
-<code><img height="22" alt="cplusplus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img height="22" alt="qt" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"></code>
-<code><img height="22" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
-<code><img height="22" alt="cmake" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg"></code>
-<code><img height="22" alt="sqlite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"></code>
-<code><img height="22" alt="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
-<code><img height="22" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-<code><img height="22" alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
+---
 
-<br />
-<br />
-
-| <a href="https://github.com/DominikTobureto"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DominikTobureto&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Alex's GitHub stats" /></a> | <a href="https://github.com/DominikTobureto"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominikTobureto&layout=compact&theme=buefy&hide_border=true" alt="Top languages" /></a> |
-| ------------- | ------------- |
-
-#### Tech Focus
+### Main stack
 
 ```text
-C++17/20      Qt 5/6 Widgets      PyQt5 / PySide6
-CMake         SQLite / PostgreSQL GitHub Actions
-CTest         GoogleTest/Catch2   PyInstaller / CPack
-Windows       Ubuntu / Linux      Git / Markdown
+Core:       C++17/20, Qt 5/6 Widgets
+Python:     PyQt5, PySide6, automation scripts
+Data:       SQLite, PostgreSQL
+Build:      CMake, CTest, CPack, GitHub Actions
+Testing:    GoogleTest, Catch2, pytest
+Platforms:  Windows, Ubuntu/Linux
 ```
 
-<br />
+---
 
-<a href="mailto:rulol7733@gmail.com">
-  <img align="right" alt="Email" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" />
-</a>
-<a href="https://github.com/DominikTobureto">
-  <img align="right" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" />
-</a>
+### Engineering taste
+
+```text
+Readable code > clever code
+Stable releases > dramatic rewrites
+Small tools > bloated systems
+Clean UI > noisy UI
+```
+
+---
+
+### Current direction
+
+- Qt 6 migration patterns
+- stronger CMake workflows
+- desktop app packaging
+- AI-assisted coding agents
+- open-source developer tools
+
+---
+
+### GitHub stats
+
+| Stats | Languages |
+| --- | --- |
+| <img src="https://github-readme-stats.vercel.app/api?username=DominikTobureto&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Alex's GitHub stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominikTobureto&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" /> |
+
+---
+
+### Contact
+
+<p>
+  <a href="mailto:rulol7733@gmail.com">
+    <img alt="Email" width="24" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/DominikTobureto">
+    <img alt="GitHub" width="24" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" />
+  </a>
+</p>
