@@ -1,8 +1,8 @@
 <p align="center">
-  <img width="160" alt="Anime mecha-inspired developer avatar" src="./assets/anime-mecha-avatar.jpg" />
+  <img width="160" alt="Anime eye avatar from Wallhaven" src="./assets/avatar-wallhaven-pkgkkp.jpg" />
 </p>
 
-<h1 align="center">Alex · Desktop Systems Builder</h1>
+<h1 align="center">Alex · C++/Qt Desktop Developer</h1>
 
 <p align="center">
   I build C++/Qt desktop applications with clean UI, structured data, and reliable release workflows.
