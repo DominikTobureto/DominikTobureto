@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="160" alt="Anime eye avatar from Wallhaven" src="./assets/avatar-wallhaven-pkgkkp.jpg" />
-</p>
-
 <h1 align="center">Alex · C++/Qt Desktop Developer</h1>
 
 <p align="center">
