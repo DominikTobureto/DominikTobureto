@@ -33,7 +33,3 @@ CTest         packaging           Windows / Linux
 - Python tooling and automation
 - CMake builds, tests, and packaging
 - AI-assisted developer workflows
-
-### Contact
-
-[rulol7733@gmail.com](mailto:rulol7733@gmail.com)
